@@ -9,5 +9,6 @@ I am a Full Stack Web Developer
 - 💬 Ask me about Whatever you wish, I read you.
 - 📫 How to reach me: maryeris527@gmail.com
 -->
+
 Languages and Tools:
-bootstrap css3 express git html5 javascript  nodejs postgresql insomnia react redux tailwind webpack
+bootstrap, css3, express, git, html5, javascript, nodejs, postgresql, insomnia, reactjs, redux, visual studio code
